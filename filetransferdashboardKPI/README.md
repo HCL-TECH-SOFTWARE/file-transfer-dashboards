@@ -1,4 +1,4 @@
-# Version ${project.version}
+# Version 1.0.0
 
 ## Prerequisites
 
@@ -18,7 +18,7 @@
 
 | Version            | Date           | Breaking Changes | Details             |
 | -------            | -----          | ---------------- | -------             |
-| ${project.version} | ${date-plugin} |                  | first release       |
+| 1.0.0              | 18-12-2020     |                  | first release       |
      
 
 

@@ -24,4 +24,9 @@
 
 ## Steps to getting started
 
-Import the dashboard into the Dynamic Workload Console and define one or more engines.
+1. Click on the Code button to download the code.
+2. Select Download zip and save the file to your workstation.
+3. Unzip the file.
+4. Log in to the Dynamic Workload Console.
+5. Select Boards, then Import Boards and specify the path to the file.
+6. Click OK. The dashboard is imported into the Dynamic Workload Console and ready for use.
